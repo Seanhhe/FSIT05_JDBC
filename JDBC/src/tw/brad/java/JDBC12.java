@@ -17,7 +17,7 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 /*
  * 整合運用
- * /
+ * 01.需先啟動Server，再執行程式。 
  */
 public class JDBC12 extends JFrame {
 	private JTable jTable;
